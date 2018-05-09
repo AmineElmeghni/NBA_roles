@@ -1,0 +1,1 @@
+# # Premise: the traditional five NBA positions as commonly defined do not properly convey the roles that these players take up on the court. This project is an attempt at classifying these roles and labelling them in hope that they could assist us in gaining insight into what combinations of these roles usually lead to successful teams
